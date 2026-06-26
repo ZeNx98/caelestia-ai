@@ -55,9 +55,9 @@ On Arch Linux, you can install the dependencies and package/install the launcher
 ### Manual installation
 
 1. **Install dependencies**:
-   Install Quickshell, Python, and Matplotlib using `pacman`:
+   Install Python and Matplotlib using `pacman`:
    ```bash
-   sudo pacman -S quickshell python-matplotlib
+   sudo pacman -S python-matplotlib
    ```
 
 
