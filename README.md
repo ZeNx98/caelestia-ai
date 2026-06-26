@@ -94,6 +94,11 @@ This is the safest method. It copies the completely new standalone files, then a
    ```bash
    quickshell -c caelestia kill; sleep 0.2; caelestia shell -d
    ```
+### if something goes wrong:
+   You can restore your orginal configration by deleting ~/.config/quickshell
+   ```bash
+   rm -dr quickshell
+   ```
 
 
 ## Keybinds & Controls
