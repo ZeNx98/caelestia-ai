@@ -50,10 +50,6 @@ Before installing, ensure the following tools and packages are installed and con
 
 ## Arch Linux Tutorial
 
-On Arch Linux, you can install the dependencies and package/install the launcher integration in two ways:
-
-### Manual installation
-
 1. **Install dependencies**:
    Install Python and Matplotlib using `pacman`:
    ```bash
